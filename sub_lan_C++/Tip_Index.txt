@@ -1,0 +1,11 @@
+
+
+//항목 2
+tip_C++_1 : 클래스 상수 선언 및 정의와 enum hack 사용법
+tip_C++_2 : const 멤버 함수, const return 멤버 함수
+tip_C++_3 : mutable 멤버 변수의 활용
+tip_C++_4 : 비상수 버전 멤버 함수가 코드 중복을 피하기 위해 상수 버전을 호출하는 법
+tip_C++_5 : 비지역 정적 객체의 초기화 문제 해결(Singleton Pattern)
+tip_C++_6 :
+tip_C++_7 :
+tip_C++_8 :

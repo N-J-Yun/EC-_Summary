@@ -1,0 +1,12 @@
+
+
+//항목 2
+tip_C_1 : #define 매크로 대신 const로 선언하자.
+tip_C_2 : 
+tip_C_3 :
+
+tip_C_4 :
+tip_C_5 :
+tip_C_6 :
+tip_C_7 :
+tip_C_8 :

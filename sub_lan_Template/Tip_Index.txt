@@ -1,0 +1,12 @@
+
+
+//항목 2
+tip_Template_1 : 함수처럼 쓰이는 매크로 대신 전역 inline 템플릿 함수를 사용하자!
+tip_Template_1 : 
+tip_Template_1 :
+
+tip_Template_1 :
+tip_Template_1 :
+tip_Template_1 :
+tip_Template_1 :
+tip_Template_1 :
