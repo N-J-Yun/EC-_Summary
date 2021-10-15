@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-
+ 
 class TextBlock
 {
 public:

@@ -10,7 +10,7 @@
 template<typename T>									
 inline void callWithMax(const T& a, const T& b)			// 타입 T에 대한 템플릿 함수이다.(위 매크로와 같은 역할을 한다.)
 {														// 전역범위에 inline되었고, 진짜 함수이기 때문에 유효범위 및 접근 규칙을 그대로 따라간다.
-	f(a > b ? a : b);									// 위의 매크로를 쓰지 말고 이런 형식을 쓰도록 하자!
+	f(a > b ? a : b);									// 위의 매크로를 쓰지 말고 이런 형식을 쓰도록 하자! 
 }														
 
 void f(int asdf){}

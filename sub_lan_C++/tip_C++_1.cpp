@@ -1,6 +1,6 @@
 // ---------------------------------------------헤더 파일----------------------------------------------------
 #pragma once
-class GamePlayer 
+class GamePlayer  
 {
 private:
 	static const int NumTurns = 5;		// 정의가 아닌 선언이 되었다.

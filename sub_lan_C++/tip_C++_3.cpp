@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 
-class CTextBlock
+class CTextBlock 
 {
 public:
 	std::size_t length() const;									// const 멤버 함수 선언
