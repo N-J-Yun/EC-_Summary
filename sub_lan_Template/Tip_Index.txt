@@ -1,9 +1,9 @@
-
-
 //항목 2
 tip_Template_1 : 함수처럼 쓰이는 매크로 대신 전역 inline 템플릿 함수를 사용하자!
-tip_Template_1 : 
-tip_Template_1 :
+
+//항목 25
+tip_Template_2 : 표준 swap의 대체-비멤버 버전의 swap 함수 구현
+tip_Template_3 : swap 함수의 호출 순서를 지정하는 법
 
 tip_Template_1 :
 tip_Template_1 :
