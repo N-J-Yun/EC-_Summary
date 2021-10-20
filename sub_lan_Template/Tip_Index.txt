@@ -7,7 +7,21 @@ tip_Template_3 : swap 함수의 호출 순서를 지정하는 법
 
 //항목 38
 tip_Template_4 : has-a 관계와 is-implemented-in-terms-of 관계 구현
-tip_Template_1 :
-tip_Template_1 :
-tip_Template_1 :
-tip_Template_1 :
+
+//항목 41* 	   : 템플릿에서 요구하는 암시적 인터페이스(유효 표현식)을 사용하는 객체가 지원하지 않으면 컴파일 타임 에러가 발생한다.
+
+//항목 42
+tip_Template_5 : typename 키워드의 사용 예시 및 예외
+tip_Template_6 : typename과 typedef 를 같이 쓰는 경우
+
+//항목 43
+tip_Template_7 : 템플릿 base 클래스 안의 멤버에 접근하는 방법
+
+//항목 44
+tip_Template_8 : 템플릿 매개변수(타입,비타입)로 생기는 코드 비대화 해결방법
+
+//항목 45
+tip_Template_9 : 일반화된 복사 생성자(멤버 함수 템플릿 활용)
+
+//항목 46
+tip_Template_10 : 매개변수의 암시적 타입 변환을 지원하는 템플릿 비멤버 함수를 제공하려면 클래스 템플릿 안에 프렌드 함수로 정의하자.
